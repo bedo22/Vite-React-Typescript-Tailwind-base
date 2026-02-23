@@ -1,3 +1,8 @@
+You can use Shadcn Create for one command Setup:
+npx shadcn@latest create --preset "https://ui.shadcn.com/init?base=radix&style=nova&baseColor=neutral&theme=neutral&iconLibrary=lucide&font=inter&menuAccent=subtle&menuColor=default&radius=default&template=vite&rtl=false" --template vite
+
+Or
+
 Run the CLI
 Run the shadcn init command to setup your project:
 
